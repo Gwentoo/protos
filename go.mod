@@ -1,4 +1,4 @@
-module protos
+module github.com/Gwentoo/protos
 
 go 1.24.0
 
